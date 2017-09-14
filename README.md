@@ -22,13 +22,13 @@
 #### Требования к реализации:
 * Код написанный на версии JS не ниже ES5, либо TypeScript;
 * Автоматическая сборка исходников (webpack/grunt/gulp);
-* Респонзивный layout (использование Boostrap приветствуется);
+* Responsive layout (использование Boostrap приветствуется);
 * Redux или RxJS;
 * Immutable структуры данных (Immutable.js, Seamless-immutable, etc.);
 * Все необходимые данные доступны в публичном API [blockchain.info](https://blockchain.info/api/blockchain_api).
 
-Результатом тестового задания будет:
-* Исходный код проекта на github или bitbucket.
+#### Результатом тестового задания будет:
+* Исходный код проекта на GitHub или Bitbucket.
 
 #### Ссылки на примеры:
 [Главная №1](https://blockchain.info/ru/home)  
