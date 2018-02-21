@@ -22,7 +22,7 @@
 #### Требования к реализации:
 * Код написанный на версии JS не ниже ES5, либо TypeScript;
 * Автоматическая сборка исходников (webpack/grunt/gulp);
-* Responsive layout (использование Boostrap приветствуется);
+* Responsive layout (использование Bootstrap приветствуется);
 * Redux или RxJS;
 * Immutable структуры данных (Immutable.js, Seamless-immutable, etc.);
 * Все необходимые данные доступны в публичном API [blockchain.info](https://blockchain.info/api/blockchain_api).
