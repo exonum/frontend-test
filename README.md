@@ -26,6 +26,8 @@
 * Redux или RxJS;
 * Immutable структуры данных (Immutable.js, Seamless-immutable, etc.);
 * Все необходимые данные доступны в публичном API [blockchain.info](https://blockchain.info/api/blockchain_api).
+* Страницу блока сверстать исходя из дизайна [zeplin poject](https://app.zeplin.io/project/5d52bc22edb303523bc13e60)
+Доступ к zeplin: frontendtestbf@gmail.com / Qq1234567. (Опционально)
 
 #### Результатом тестового задания будет:
 * Исходный код проекта на GitHub или Bitbucket.

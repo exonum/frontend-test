@@ -27,6 +27,8 @@ form to search block by `height` and transaction by `hash`);
 * Immutable data structures (Immutable.js, Seamless-immutable, etc.);
 * All information about Bitcoin blockchain is accessible through
 [blockchain.info](https://blockchain.info/api/blockchain_api) public API.
+* A page with detailed information about a block create with layout [zeplin poject](https://app.zeplin.io/project/5d52bc22edb303523bc13e60)
+Zeplin access: frontendtestbf@gmail.com / Qq1234567. (Optional)
 
 #### Expected result:
 * Source code on GitHub or Bitbucket.
